@@ -286,31 +286,6 @@ main > section:nth-child(2) footer {
   gap: 16px
 }
 
-/* Feature Cards */
-/* article {
-  background-color: var(--card-bg);
-  padding: 2rem;
-  margin-bottom: 16px;
-  border-radius: 0.5rem;                   
-  box-shadow: 0px 1px 3px 0 var(--shadow); 
-
-  svg {
-    color: var(--primary-light);          
-    background: rgba(0, 153, 255, 0.3);  
-    border-radius: 9999px;               
-    width: 64px;                         
-    height: 64px;                        
-    padding: 16px;                       
-  }
-
-  h3 {
-    font-weight: 500;
-  }
-
-  p {
-    color: var(--text-muted);
-  }
-} */
 
 /* Footer */
 footer {
@@ -344,4 +319,6 @@ article {
 }
 
 
-
+p { 
+  color: var(--text-muted);
+}
